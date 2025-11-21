@@ -1,2 +1,2 @@
-# Organizador-autom-tico-de-arquivos
+# Organizador automatico de arquivos
 Um script em Python que organiza arquivos de uma pasta automaticamente, separando-os por categoria
