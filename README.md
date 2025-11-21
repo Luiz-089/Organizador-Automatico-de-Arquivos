@@ -1,18 +1,18 @@
 # Organizador Automático de Arquivos
-
+---
 Um script em Python que organiza automaticamente os arquivos de uma pasta, separando-os por categorias como imagens, vídeos e documentos. Simples, útil e ideal para iniciantes que desejam praticar Python e organização de diretórios.
- ---
+ 
 # Funcionalidades
-
+---
 Organiza arquivos por tipo (imagens, vídeos, documentos, etc.)
 
 Cria pastas automaticamente caso não existam
 
 Evita sobrescrever arquivos repetidos
 
-Código simples, de fácil leitura e edição
 
-Tutorial de Execução
+# Tutorial de Execução
+---
 1. Instale o Python
 
 Acesse o site oficial:
@@ -58,8 +58,8 @@ Como funciona
 O script cria automaticamente pastas para cada categoria e move os arquivos correspondentes.
 Caso um arquivo com o mesmo nome exista dentro da pasta de destino, ele renomeia para evitar sobrescrita.
 
-Tecnologias Utilizadas
-
+# Tecnologias Utilizadas
+---
 Python 3
 
 Módulos padrão: os, shutil
