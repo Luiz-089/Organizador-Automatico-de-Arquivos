@@ -2,7 +2,7 @@
 
 Um script em Python que organiza automaticamente os arquivos de uma pasta, separando-os por categorias como imagens, vídeos e documentos. Simples, útil e ideal para iniciantes que desejam praticar Python e organização de diretórios.
 
-Funcionalidades
+# Funcionalidades
 
 Organiza arquivos por tipo (imagens, vídeos, documentos, etc.)
 
